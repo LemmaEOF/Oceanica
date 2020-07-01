@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "oceanica",
+  "version": "${version}",
+  "name": "Oceanica",
+  "license": "MIT",
+  "icon": "assets/oceanica/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "space.bbkr.oceanica.Oceanica"
+    ]
+  },
+  "mixins": [
+    "oceanica.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.8.9+build.203",
+    "fabric": "*",
+    "minecraft": "1.16.1"
+  }
+}
