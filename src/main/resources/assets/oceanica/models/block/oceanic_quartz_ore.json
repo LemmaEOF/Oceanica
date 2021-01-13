@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "oceanica:block/oceanic_quartz_ore"
+  }
+}

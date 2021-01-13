@@ -1,3 +1,5 @@
 {
-  "item.oceanica.oceanic_quartz": "Oceanic Quartz"
+  "block.oceanica.oceanic_quartz_ore": "Oceanic Quartz Ore",
+  "item.oceanica.oceanic_quartz": "Oceanic Quartz",
+  "item.oceanica.ocean_aura_pickaxe": "Ocean Aura Pickaxe"
 }
